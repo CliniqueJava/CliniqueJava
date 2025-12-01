@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "react-multi-date-picker": "^4.5.2"
+  }
+}

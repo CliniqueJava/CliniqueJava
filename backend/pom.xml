@@ -91,3 +91,5 @@
 	</build>
 
 </project>
+
+<!-- islem: added JWT and security dependencies -->

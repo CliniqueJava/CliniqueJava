@@ -22,3 +22,5 @@ export default {
   plugins: [],
 }
 
+
+// chaima: added clinic color palette

@@ -69,3 +69,5 @@ public class User implements UserDetails {
         return true;
     }
 }
+
+// islem: implements UserDetails for Spring Security

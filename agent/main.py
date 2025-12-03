@@ -104,3 +104,5 @@ PATIENT MESSAGE:
             "status": "failed",
             "timestamp": str(datetime.datetime.now())
         }
+
+# iyadh: FastAPI medical agent with Groq LLM

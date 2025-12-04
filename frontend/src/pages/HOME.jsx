@@ -499,3 +499,5 @@ export default function HOME() {
   )
 }
 
+
+// chaima: hero section with animated blobs

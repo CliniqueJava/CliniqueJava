@@ -191,3 +191,4 @@ medical_docs = [
     Risk level: high.
     """
 ]
+# iyadh: 20 medical conditions

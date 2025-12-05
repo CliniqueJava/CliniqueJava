@@ -131,3 +131,5 @@ public class Doctor {
     public String getDescription()             { return description; }
     public void setDescription(String v)       { this.description = v; }
 }
+
+// islem: Doctor entity with Speciality enum

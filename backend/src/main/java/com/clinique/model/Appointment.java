@@ -108,3 +108,5 @@ public class Appointment {
     public String getStatus()                    { return status; }
     public void setStatus(String v)              { this.status = v; }
 }
+
+// islem: Appointment with ManyToOne patient and doctor

@@ -286,3 +286,5 @@ export default function AuthPage() {
     </div>
   )
 }
+
+// chaima: sliding panel animation

@@ -21,3 +21,4 @@ def search_medical_info(query: str):
     results = vectorstore.similarity_search(query, k=3)
 
     return "\n".join([r.page_content for r in results])
+# iyadh: FAISS + HuggingFace

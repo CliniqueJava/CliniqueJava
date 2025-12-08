@@ -78,3 +78,5 @@ export const AuthProvider = ({ children }) => {
 };
 
 export const useAuth = () => useContext(AuthContext);
+
+// chaima: JWT decode and role-based state

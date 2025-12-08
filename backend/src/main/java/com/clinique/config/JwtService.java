@@ -77,3 +77,5 @@ public class JwtService {
         return Keys.hmacShaKeyFor(keyBytes);
     }
 }
+
+// islem: HS256 token generation

@@ -67,3 +67,5 @@ public class SecurityConfig {
         return source;
     }
 }
+
+// islem: role-based route protection

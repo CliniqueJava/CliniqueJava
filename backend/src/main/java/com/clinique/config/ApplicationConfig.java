@@ -78,3 +78,5 @@ public class ApplicationConfig {
         return new BCryptPasswordEncoder();
     }
 }
+
+// islem: unified UserDetailsService for users and doctors

@@ -50,3 +50,5 @@ def get_doctors_by_specialty(db_specialty: str) -> list:
     except Exception as e:
         print(f"[doctor_service] Failed to fetch doctors: {e}")
     return []
+
+# iyadh: fetch doctors by specialty

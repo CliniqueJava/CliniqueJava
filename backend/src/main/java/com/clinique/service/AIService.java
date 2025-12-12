@@ -28,3 +28,4 @@ public class AIService {
         return response;
     }
 }
+// iyadh: RestTemplate proxy

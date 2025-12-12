@@ -26,3 +26,4 @@ public class AIController {
         return ResponseEntity.ok(aiService.analyzeSymptoms(message, userId));
     }
 }
+// iyadh: /ai/diagnose

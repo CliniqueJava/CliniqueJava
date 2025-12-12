@@ -129,3 +129,5 @@ public class AuthenticationService {
                 .build();
     }
 }
+
+// islem: register and login with role detection

@@ -33,3 +33,5 @@ public class AuthenticationController {
         return ResponseEntity.ok(authenticationService.authenticate(request));
     }
 }
+
+// islem: /api/auth/login and /register

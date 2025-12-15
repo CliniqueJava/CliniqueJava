@@ -60,3 +60,5 @@ public class AppointmentService {
         return appointmentRepository.save(appointment);
     }
 }
+
+// islem: slot conflict validation

@@ -123,3 +123,5 @@ public class AppointmentController {
         return ResponseEntity.notFound().build();
     }
 }
+
+// islem: POST /book and GET all for admin

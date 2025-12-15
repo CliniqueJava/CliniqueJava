@@ -93,3 +93,5 @@ public class DoctorService {
                 .toList();
     }
 }
+
+// iyadh: date-based availability

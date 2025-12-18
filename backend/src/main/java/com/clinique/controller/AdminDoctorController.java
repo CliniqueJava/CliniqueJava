@@ -148,3 +148,5 @@ public class AdminDoctorController {
         return ResponseEntity.badRequest().body(Map.of("error", msg));
     }
 }
+
+// islem: CRUD with BCrypt password encoding

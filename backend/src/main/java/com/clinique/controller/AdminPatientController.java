@@ -77,3 +77,5 @@ public class AdminPatientController {
         return ResponseEntity.notFound().build();
     }
 }
+
+// islem: patient list and stats

@@ -499,3 +499,5 @@ export default function AdminDoctors() {
     </div>
   );
 }
+
+// chaima: calendar picker for availability

@@ -207,3 +207,5 @@ export default function AdminPatients() {
     </div>
   );
 }
+
+// chaima: patient list with search

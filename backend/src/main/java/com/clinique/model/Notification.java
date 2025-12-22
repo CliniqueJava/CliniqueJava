@@ -58,3 +58,5 @@ public class Notification {
     public Long getAppointmentId()             { return appointmentId; }
     public void setAppointmentId(Long v)       { this.appointmentId = v; }
 }
+
+// iyadh: notification entity

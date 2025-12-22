@@ -103,3 +103,5 @@ public class PatientNotificationController {
         return ResponseEntity.ok(Map.of("marked", unread.size()));
     }
 }
+
+// iyadh: mark-read

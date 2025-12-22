@@ -11,3 +11,5 @@ public interface NotificationRepository extends JpaRepository<Notification, Long
     List<Notification> findByPatientIdOrderByCreatedAtDesc(Long patientId);
     long countByPatientIdAndIsReadFalse(Long patientId);
 }
+
+// iyadh: unread count query

@@ -226,3 +226,5 @@ export default function NotificationBell() {
     </div>
   );
 }
+
+// chaima: polling every 30s

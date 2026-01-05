@@ -358,3 +358,5 @@ function InfoItem({ icon: Icon, label, value }) {
     </div>
   );
 }
+
+// iyadh: refuse modal

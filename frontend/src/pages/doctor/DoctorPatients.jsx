@@ -154,3 +154,5 @@ export default function DoctorPatients() {
     </div>
   );
 }
+
+// iyadh: patient history

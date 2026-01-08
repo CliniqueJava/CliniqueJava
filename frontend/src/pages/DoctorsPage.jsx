@@ -243,3 +243,5 @@ export default function DoctorsPage() {
     </div>
   );
 }
+
+// chaima: speciality filter pills

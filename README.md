@@ -31,9 +31,8 @@ A full-stack clinic management platform built with **Spring Boot**, **React**, a
 - Fetches matching doctors from the database and displays them as bookable cards
 
 ---
-
+<img width="1891" height="887" alt="image" src="https://github.com/user-attachments/assets/525a78ae-db55-4c42-920b-081be2bcdf76" />
 ---
-
 ## 📄 License
 
 This project was developed as part of an academic project. All rights reserved.
